@@ -19,17 +19,17 @@ End-to-end latency (network ingestion to LOB update), excluding initial cache-wa
     --- Starting Multithreaded HFT Engine ---
     [ENGINE] Thread started and listening...
     [NETWORK] Thread started on CPU core.
-    [METRIC] Order 100 Processed. End-to-End Latency: 9125 ns
-    [METRIC] Order 101 Processed. End-to-End Latency: 250 ns
-    [METRIC] Order 102 Processed. End-to-End Latency: 1916 ns
-    [METRIC] Order 103 Processed. End-to-End Latency: 375 ns
+    [METRIC] Order 100 Processed. End-to-End Latency: 6667 ns
+    [METRIC] Order 101 Processed. End-to-End Latency: 292 ns
+    [METRIC] Order 102 Processed. End-to-End Latency: 583 ns
+    [METRIC] Order 103 Processed. End-to-End Latency: 791 ns
     [NETWORK] All orders sent.
     
     ========================================
     [BENCHMARK SUMMARY]
     Total Orders Processed: 4
-    Total Time Taken: 11666 ns
-    Average Latency: 2916 ns
+    Total Time Taken: 8333 ns
+    Average Latency: 2083 ns
     ========================================
     [ENGINE] Shutting down.
     --- System Shutdown Successfully ---
