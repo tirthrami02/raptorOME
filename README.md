@@ -39,7 +39,7 @@ End-to-end latency (network ingestion to LOB update), excluding initial cache-wa
 
 Requires GCC, C++17 support, and the pthread library.
 
-    git clone https://github.com/yourusername/raptor-ome.git
+    git clone https://github.com/tirthrami02/raptorOME.git
     cd raptor-ome
     g++ -O3 -std=c++17 main.cpp OrderBook.cpp -pthread -o raptor_ome
     ./raptor_ome
