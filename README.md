@@ -34,6 +34,10 @@ End-to-end latency (network ingestion to LOB update), excluding initial cache-wa
     ========================================
     [ENGINE] Shutting down.
     --- System Shutdown Successfully ---
+## Screenshots
+<img width="780" height="157" alt="test1" src="https://github.com/user-attachments/assets/45285528-d34f-4903-b905-237ba708571a" />
+<img width="494" height="213" alt="finalTest0" src="https://github.com/user-attachments/assets/f438bb7e-3393-4462-9d95-06ec63a7e157" />
+<img width="864" height="296" alt="finalTest1" src="https://github.com/user-attachments/assets/5efe57de-2f76-423c-b8ca-bac4d0578deb" />
 
 ## 🛠️ Build & Run
 
